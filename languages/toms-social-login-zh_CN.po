@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Social Login\n"
+"POT-Creation-Date: 2023-04-01 13:54+0800\n"
+"PO-Revision-Date: 2023-04-01 13:54+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toms-social-login.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: inc/toms-dingtalk-login.php:76 inc/toms-dingtalk-login.php:96
+#: inc/toms-dingtalk-login.php:110 inc/toms-facebook-login.php:63
+#: inc/toms-facebook-login.php:79 inc/toms-facebook-login.php:102
+#: inc/toms-github-login.php:61 inc/toms-github-login.php:80
+#: inc/toms-google-login.php:63 inc/toms-google-login.php:86
+#: inc/toms-paypal-login.php:61 inc/toms-paypal-login.php:83
+#: inc/toms-qq-login.php:66 inc/toms-qq-login.php:90 inc/toms-qq-login.php:113
+#: inc/toms-wechat-login.php:62 inc/toms-wechat-login.php:85
+#: inc/toms-weibo-login.php:63 inc/toms-weibo-login.php:87
+msgid "Error:"
+msgstr "错误："
+
+#: inc/toms-dingtalk-login.php:76 inc/toms-dingtalk-login.php:96
+#: inc/toms-dingtalk-login.php:110 inc/toms-facebook-login.php:63
+#: inc/toms-facebook-login.php:79 inc/toms-facebook-login.php:102
+#: inc/toms-github-login.php:61 inc/toms-github-login.php:80
+#: inc/toms-google-login.php:63 inc/toms-google-login.php:86
+#: inc/toms-paypal-login.php:61 inc/toms-paypal-login.php:83
+#: inc/toms-qq-login.php:66 inc/toms-qq-login.php:90 inc/toms-qq-login.php:113
+#: inc/toms-wechat-login.php:62 inc/toms-wechat-login.php:85
+#: inc/toms-weibo-login.php:63 inc/toms-weibo-login.php:87
+#: library/toms-user-request.php:143 library/toms-user-request.php:150
+#: library/toms-user-request.php:157
+msgid "Back"
+msgstr "返回"
+
+#: library/toms-avatar.php:138
+msgid "TomS Social Login Avatar"
+msgstr "TomS社交登录头像"
+
+#: library/toms-avatar.php:139
+msgid "Mystery Person"
+msgstr "神秘人物"
+
+#: library/toms-avatar.php:140
+msgid "Blank"
+msgstr "空白"
+
+#: library/toms-avatar.php:141
+msgid "Gravatar Logo"
+msgstr "Gravatar Logo"
+
+#: library/toms-avatar.php:142
+msgid "Identicon (Generated)"
+msgstr "Identicon (Generated)"
+
+#: library/toms-avatar.php:143
+msgid "Wavatar (Generated)"
+msgstr "Wavatar (Generated)"
+
+#: library/toms-avatar.php:144
+msgid "MonsterID (Generated)"
+msgstr "MonsterID (Generated)"
+
+#: library/toms-avatar.php:145
+msgid "Retro (Generated)"
+msgstr "Retro (Generated)"
+
+#: library/toms-binding-btn.php:56
+msgid "Binding/Unbind Your Favorite Social"
+msgstr "绑定/解绑社交登录账号"
+
+#: library/toms-binding-btn.php:84 library/toms-binding-btn.php:113
+msgid "Associated"
+msgstr "已关联"
+
+#: library/toms-binding-btn.php:93 library/toms-binding-btn.php:147
+msgid "Not associated"
+msgstr "未关联"
+
+#: library/toms-binding-btn.php:105
+msgid "Binding"
+msgstr "绑定"
+
+#: library/toms-binding-btn.php:125
+msgid "Unbind"
+msgstr "解绑"
+
+#: library/toms-binding-btn.php:129
+msgid "Unbind This Account"
+msgstr "解绑该账号"
+
+#: library/toms-binding-btn.php:131
+msgid "Are you sure you want to unbind "
+msgstr "您确定要解除 "
+
+#: library/toms-binding-btn.php:140
+msgid " account from current user?"
+msgstr " 与此账号的关联?"
+
+#: library/toms-binding-btn.php:185
+msgid "Yes Unbinding!"
+msgstr "是的，立即解除!"
+
+#: library/toms-login-btn.php:74
+msgid "Connect Your Favorite Social"
+msgstr "通过第三方社交登录"
+
+#: library/toms-social-login-json.php:80
+msgid "Wechat"
+msgstr "微信"
+
+#: library/toms-social-login-json.php:91 library/toms-social-login-json.php:170
+#: library/toms-social-login-json.php:584
+msgid "App ID"
+msgstr "App ID"
+
+#: library/toms-social-login-json.php:92 library/toms-social-login-json.php:251
+#: library/toms-social-login-json.php:330
+#: library/toms-social-login-json.php:585
+msgid "App Secret"
+msgstr "App Secret"
+
+#: library/toms-social-login-json.php:93 library/toms-social-login-json.php:172
+#: library/toms-social-login-json.php:331
+msgid "Authorization Callback Domain"
+msgstr "回调地址"
+
+#: library/toms-social-login-json.php:159
+msgid "QQ"
+msgstr "QQ"
+
+#: library/toms-social-login-json.php:171
+msgid "APP Key"
+msgstr "APP Key"
+
+#: library/toms-social-login-json.php:239
+msgid "Weibo"
+msgstr "微博"
+
+#: library/toms-social-login-json.php:250
+msgid "App Key"
+msgstr "App Key"
+
+#: library/toms-social-login-json.php:252
+msgid "Authorization callback URL"
+msgstr "回调地址"
+
+#: library/toms-social-login-json.php:318
+msgid "DingTalk"
+msgstr "钉钉"
+
+#: library/toms-social-login-json.php:329
+msgid "App Id"
+msgstr "App Id"
+
+#: library/toms-social-login-json.php:414
+msgid "GitHub"
+msgstr "GitHub"
+
+#: library/toms-social-login-json.php:425
+#: library/toms-social-login-json.php:505
+#: library/toms-social-login-json.php:666
+msgid "Client ID"
+msgstr "Client ID"
+
+#: library/toms-social-login-json.php:426
+msgid "Client Secrets"
+msgstr "Client Secrets"
+
+#: library/toms-social-login-json.php:427
+msgid "Authorization Callback URL"
+msgstr "回调地址"
+
+#: library/toms-social-login-json.php:494
+msgid "Google"
+msgstr "谷歌"
+
+#: library/toms-social-login-json.php:506
+msgid "Client secret"
+msgstr "Client secret"
+
+#: library/toms-social-login-json.php:507
+msgid "Authorized Redirect URI"
+msgstr "回调地址"
+
+#: library/toms-social-login-json.php:573
+msgid "Facebook"
+msgstr "Facebook"
+
+#: library/toms-social-login-json.php:586
+msgid "Valid OAuth Redirect URI"
+msgstr "回调地址"
+
+#: library/toms-social-login-json.php:655
+msgid "PayPal"
+msgstr "PayPal"
+
+#: library/toms-social-login-json.php:667
+msgid "Secret"
+msgstr "Secret"
+
+#: library/toms-social-login-json.php:668
+msgid "Return URL"
+msgstr "回调地址"
+
+#: library/toms-user-lists.php:67
+msgid "Not Binding"
+msgstr "未绑定"
+
+#: library/toms-user-process.php:107 library/toms-user-process.php:158
+msgid "User Create Failed !"
+msgstr "用户创建失败!"
+
+#: library/toms-user-process.php:109
+msgid "Social User Create Failed !"
+msgstr "社交用户创建失败!"
+
+#: library/toms-user-process.php:155
+msgid "Social User Update Failed !"
+msgstr "社交用户更新失败!"
+
+#: library/toms-user-process.php:221
+msgid "User Update Failed !"
+msgstr "用户更新失败!"
+
+#: library/toms-user-process.php:285
+msgid "Social User Binding Failed !"
+msgstr "社交用户绑定失败!"
+
+#: library/toms-user-process.php:369
+msgid "Social User Update and Binding Failed !"
+msgstr "社交用户更新和绑定失败!"
+
+#: library/toms-user-process.php:434
+msgid "Login Failed! User id or social type not exists."
+msgstr "登录失败！用户 ID 或社交类型不存在."
+
+#: library/toms-user-request.php:143 library/toms-user-request.php:157
+msgid "Your "
+msgstr "您的 "
+
+#: library/toms-user-request.php:143
+msgid " account is already binding this account !"
+msgstr " 已绑定此帐户!"
+
+#: library/toms-user-request.php:150
+msgid "Another "
+msgstr "另一个 "
+
+#: library/toms-user-request.php:150
+msgid " account has been binding this account, Unbind it first !"
+msgstr " 已经绑定了这个账号，请先解绑!"
+
+#: library/toms-user-request.php:157
+msgid ""
+" account is already binding another user account, please log out and use "
+"your "
+msgstr " 已经绑定过其他账号，请先退出当前账号，再用您的 "
+
+#: library/toms-user-request.php:157
+msgid " account to login again"
+msgstr " 账号进行登录"
+
+#. Plugin Name of the plugin/theme
+#: toms-social-login.php:25
+msgid "TomS Social Login"
+msgstr "TomS社交登录"
+
+#: toms-social-login.php:50 toms-social-login.php:81
+msgid "Invalid Nonce !"
+msgstr "无效的Nonce!"
+
+#: toms-social-login.php:59
+msgid "Reorder Successfully !"
+msgstr "排序成功!"
+
+#: toms-social-login.php:61
+msgid "Sorry, you don't have permission to reorder the icons."
+msgstr "很抱歉，您没有重新排序图标的权限."
+
+#: toms-social-login.php:63 toms-social-login.php:99
+msgid "Illegal operation, user is not logged in!"
+msgstr "非法操作，用户未登录!"
+
+#: toms-social-login.php:86
+msgid "Unbinding <strong>Succeeded</strong> !"
+msgstr "解除绑定 <strong>成功</strong> !"
+
+#: toms-social-login.php:88
+msgid "Sorry, you don't have permission to Unbind this account."
+msgstr "很抱歉，您没有取消绑定此帐户的权限."
+
+#: toms-social-login.php:95
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: toms-social-login.php:95
+msgid "account is not binding!"
+msgstr "帐户未绑定！"
+
+#: toms-social-login.php:97
+msgid "Illegal operation, unkown source!"
+msgstr "非法操作，未知来源!"
+
+#: toms-social-login.php:182
+msgid "Settings saved."
+msgstr "设置已保存."
+
+#: toms-social-login.php:186
+msgid "ERROR : Settings save failed."
+msgstr "错误：设置保存失败."
+
+#: toms-social-login.php:187
+msgid "Sorry, you don't have permission to perform this action."
+msgstr "抱歉，您没有执行此操作的权限."
+
+#. Description of the plugin/theme
+#: toms-social-login.php:582
+msgid ""
+"Support Facebook, Google, Paypal, Github, Wechat, QQ, Weibo, Dingtalk "
+"accounts to login your wordpress site."
+msgstr ""
+"支持Facebook，Google，PayPal，Github，微信，QQ，微博，钉钉帐户登录您的"
+"wordpress网站."
+
+#: toms-social-login.php:586
+msgid "Ordering"
+msgstr "排序"
+
+#: toms-social-login.php:587
+msgid "You can drag and drop to change the order of icons"
+msgstr "您可以拖放图标更改显示顺序"
+
+#: toms-social-login.php:605
+msgid "Warning: Drag and drop with mouse only!"
+msgstr "警告：仅适用于鼠标!"
+
+#: toms-social-login.php:614
+msgid "Button Style"
+msgstr "按钮样式"
+
+#: toms-social-login.php:632 toms-social-login.php:638
+msgid "TomS Social"
+msgstr "TomS Social"
+
+#: toms-social-login.php:644
+msgid "TomS Social QT"
+msgstr "TomS Social QT"
+
+#: toms-social-login.php:664
+msgid "Configuration"
+msgstr "配置"
+
+#: toms-social-login.php:699
+msgid "Default "
+msgstr "默认 "
+
+#: toms-social-login.php:699
+msgid " is: "
+msgstr " 是: "
+
+#: toms-social-login.php:704
+msgid "Get the Keys"
+msgstr "获取密钥"
+
+#: toms-social-login.php:705
+msgid "Need help?"
+msgstr "需要帮助？"
+
+#: toms-social-login.php:720
+msgid "Binding/Unbind Button"
+msgstr "绑定/解绑 按钮"
+
+#: toms-social-login.php:721
+msgid "Show Binding/Unbind Button on user profile page."
+msgstr "在用户资料页面显示 绑定/解绑按钮."
+
+#: toms-social-login.php:727
+msgid "Binding Button"
+msgstr "显示绑定按钮"
+
+#: toms-social-login.php:731
+msgid "Unbind Button"
+msgstr "显示解绑按钮"
+
+#: toms-social-login.php:742
+msgid "Delete all the configuration Data!"
+msgstr "删除配置信息!"
+
+#: toms-social-login.php:743
+msgid "Warning: "
+msgstr "警告： "
+
+#: toms-social-login.php:743
+msgid ""
+"Please check this option carefully, it will delete all data saved on this "
+"page when the plugin is deleted ."
+msgstr "勾选后，当插件被删除时，它将删除此页面上保存的所有数据。"
+
+#: toms-social-login.php:749
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: toms-social-login.php:768
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr "<a href=\"%s\">设置</a>"
+
+#. Author of the plugin/theme
+msgid "Tom Sneddon"
+msgstr "汤小贤"
+
+#. Author URI of the plugin/theme
+msgid "https://TomS-Caprice.org"
+msgstr "https://TomS-Caprice.org"
+
+#~ msgid "TomS Plugins For Wordpress"
+#~ msgstr "TomS Plugins For Wordpress"
+
+#~ msgid "TomS WP"
+#~ msgstr "TomS WP"
+
+#~ msgid "Dashboard"
+#~ msgstr "仪表盘"
+
+#, php-format
+#~ msgid ""
+#~ "<i>Thank you for using <a href=\"%s\" target=\"_blank\"><strong>TomS "
+#~ "WordPress Plugin</strong></a></i>"
+#~ msgstr ""
+#~ "<i>感谢您使用 <a href=\"%s\" target=\"_blank\"><strong>TomS WordPress "
+#~ "Plugin</strong></a></i>"
+
+#~ msgid "TomS DashBoard"
+#~ msgstr "TomS 首页"
+
+#~ msgid "Welcome to TomS Caprice !"
+#~ msgstr "欢迎来到TomS的奇思妙想！"
+
+#~ msgid ""
+#~ "Thank you for choosing TomS Caprice plugins. We provide easy, useful and "
+#~ "secure plugins for you."
+#~ msgstr "感谢您选择TomS的奇思妙想，我们为您提供简单、实用和安全的插件。"
+
+#~ msgid "Current Installed"
+#~ msgstr "当前已安装"
+
+#~ msgid "Version:"
+#~ msgstr "版本："
+
+#~ msgid "Settings"
+#~ msgstr "设置"
+
+#~ msgid "View Details"
+#~ msgstr "查看详情"
+
+#~ msgid "Activate"
+#~ msgstr "激话"
+
+#~ msgid "Our Popular Plugins"
+#~ msgstr "我们受欢迎的插件"
+
+#~ msgid "Status:"
+#~ msgstr "状态："
+
+#~ msgid "Not install"
+#~ msgstr "未安装"
+
+#~ msgid "Comming Soon"
+#~ msgstr "敬请期待"

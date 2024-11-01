@@ -1,0 +1,465 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Social Login\n"
+"POT-Creation-Date: 2022-10-27 14:53+0800\n"
+"PO-Revision-Date: 2022-10-27 14:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toms-social-login.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: vendor\n"
+"X-Poedit-SearchPath-2: vendor/toms-caprice.php\n"
+
+#: inc/toms-dingtalk-login.php:76 inc/toms-dingtalk-login.php:96
+#: inc/toms-dingtalk-login.php:110 inc/toms-facebook-login.php:63
+#: inc/toms-facebook-login.php:79 inc/toms-facebook-login.php:102
+#: inc/toms-github-login.php:61 inc/toms-github-login.php:80
+#: inc/toms-google-login.php:63 inc/toms-google-login.php:86
+#: inc/toms-paypal-login.php:61 inc/toms-paypal-login.php:83
+#: inc/toms-qq-login.php:66 inc/toms-qq-login.php:90 inc/toms-qq-login.php:113
+#: inc/toms-wechat-login.php:62 inc/toms-wechat-login.php:85
+#: inc/toms-weibo-login.php:63 inc/toms-weibo-login.php:87
+msgid "Error:"
+msgstr ""
+
+#: inc/toms-dingtalk-login.php:76 inc/toms-dingtalk-login.php:96
+#: inc/toms-dingtalk-login.php:110 inc/toms-facebook-login.php:63
+#: inc/toms-facebook-login.php:79 inc/toms-facebook-login.php:102
+#: inc/toms-github-login.php:61 inc/toms-github-login.php:80
+#: inc/toms-google-login.php:63 inc/toms-google-login.php:86
+#: inc/toms-paypal-login.php:61 inc/toms-paypal-login.php:83
+#: inc/toms-qq-login.php:66 inc/toms-qq-login.php:90 inc/toms-qq-login.php:113
+#: inc/toms-wechat-login.php:62 inc/toms-wechat-login.php:85
+#: inc/toms-weibo-login.php:63 inc/toms-weibo-login.php:87
+#: library/toms-user-request.php:143 library/toms-user-request.php:150
+#: library/toms-user-request.php:157
+msgid "Back"
+msgstr ""
+
+#: library/toms-avatar.php:138
+msgid "TomS Social Login Avatar"
+msgstr ""
+
+#: library/toms-avatar.php:139
+msgid "Mystery Person"
+msgstr ""
+
+#: library/toms-avatar.php:140
+msgid "Blank"
+msgstr ""
+
+#: library/toms-avatar.php:141
+msgid "Gravatar Logo"
+msgstr ""
+
+#: library/toms-avatar.php:142
+msgid "Identicon (Generated)"
+msgstr ""
+
+#: library/toms-avatar.php:143
+msgid "Wavatar (Generated)"
+msgstr ""
+
+#: library/toms-avatar.php:144
+msgid "MonsterID (Generated)"
+msgstr ""
+
+#: library/toms-avatar.php:145
+msgid "Retro (Generated)"
+msgstr ""
+
+#: library/toms-binding-btn.php:56
+msgid "Binding/Unbind Your Favorite Social"
+msgstr ""
+
+#: library/toms-binding-btn.php:74
+msgid "Binding"
+msgstr ""
+
+#: library/toms-binding-btn.php:81
+msgid "Unbind"
+msgstr ""
+
+#: library/toms-binding-btn.php:85
+msgid "Unbind This Account"
+msgstr ""
+
+#: library/toms-binding-btn.php:87
+msgid "Are you sure you want to unbind "
+msgstr ""
+
+#: library/toms-binding-btn.php:96
+msgid " account from current user?"
+msgstr ""
+
+#: library/toms-binding-btn.php:130
+msgid "Yes Unbinding!"
+msgstr ""
+
+#: library/toms-login-btn.php:74
+msgid "Connect Your Favorite Social"
+msgstr ""
+
+#: library/toms-social-login-json.php:80
+msgid "Wechat"
+msgstr ""
+
+#: library/toms-social-login-json.php:91 library/toms-social-login-json.php:170
+#: library/toms-social-login-json.php:584
+msgid "App ID"
+msgstr ""
+
+#: library/toms-social-login-json.php:92 library/toms-social-login-json.php:251
+#: library/toms-social-login-json.php:330
+#: library/toms-social-login-json.php:585
+msgid "App Secret"
+msgstr ""
+
+#: library/toms-social-login-json.php:93 library/toms-social-login-json.php:172
+#: library/toms-social-login-json.php:331
+msgid "Authorization Callback Domain"
+msgstr ""
+
+#: library/toms-social-login-json.php:159
+msgid "QQ"
+msgstr ""
+
+#: library/toms-social-login-json.php:171
+msgid "APP Key"
+msgstr ""
+
+#: library/toms-social-login-json.php:239
+msgid "Weibo"
+msgstr ""
+
+#: library/toms-social-login-json.php:250
+msgid "App Key"
+msgstr ""
+
+#: library/toms-social-login-json.php:252
+msgid "Authorization callback URL"
+msgstr ""
+
+#: library/toms-social-login-json.php:318
+msgid "DingTalk"
+msgstr ""
+
+#: library/toms-social-login-json.php:329
+msgid "App Id"
+msgstr ""
+
+#: library/toms-social-login-json.php:414
+msgid "GitHub"
+msgstr ""
+
+#: library/toms-social-login-json.php:425
+#: library/toms-social-login-json.php:505
+#: library/toms-social-login-json.php:666
+msgid "Client ID"
+msgstr ""
+
+#: library/toms-social-login-json.php:426
+msgid "Client Secrets"
+msgstr ""
+
+#: library/toms-social-login-json.php:427
+msgid "Authorization Callback URL"
+msgstr ""
+
+#: library/toms-social-login-json.php:494
+msgid "Google"
+msgstr ""
+
+#: library/toms-social-login-json.php:506
+msgid "Client secret"
+msgstr ""
+
+#: library/toms-social-login-json.php:507
+msgid "Authorized Redirect URI"
+msgstr ""
+
+#: library/toms-social-login-json.php:573
+msgid "Facebook"
+msgstr ""
+
+#: library/toms-social-login-json.php:586
+msgid "Valid OAuth Redirect URI"
+msgstr ""
+
+#: library/toms-social-login-json.php:655
+msgid "PayPal"
+msgstr ""
+
+#: library/toms-social-login-json.php:667
+msgid "Secret"
+msgstr ""
+
+#: library/toms-social-login-json.php:668
+msgid "Return URL"
+msgstr ""
+
+#: library/toms-user-lists.php:67
+msgid "Not Binding"
+msgstr ""
+
+#: library/toms-user-process.php:107 library/toms-user-process.php:158
+msgid "User Create Failed !"
+msgstr ""
+
+#: library/toms-user-process.php:109
+msgid "Social User Create Failed !"
+msgstr ""
+
+#: library/toms-user-process.php:155
+msgid "Social User Update Failed !"
+msgstr ""
+
+#: library/toms-user-process.php:221
+msgid "User Update Failed !"
+msgstr ""
+
+#: library/toms-user-process.php:285
+msgid "Social User Binding Failed !"
+msgstr ""
+
+#: library/toms-user-process.php:369
+msgid "Social User Update and Binding Failed !"
+msgstr ""
+
+#: library/toms-user-process.php:434
+msgid "Login Failed! User id or social type not exists."
+msgstr ""
+
+#: library/toms-user-request.php:143 library/toms-user-request.php:157
+msgid "Your "
+msgstr ""
+
+#: library/toms-user-request.php:143
+msgid " account is already binding this account !"
+msgstr ""
+
+#: library/toms-user-request.php:150
+msgid "Another "
+msgstr ""
+
+#: library/toms-user-request.php:150
+msgid " account has been binding this account, Unbind it first !"
+msgstr ""
+
+#: library/toms-user-request.php:157
+msgid " account is already binding another user account, please log out and use your "
+msgstr ""
+
+#: library/toms-user-request.php:157
+msgid " account to login again"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: toms-social-login.php:25
+msgid "TomS Social Login"
+msgstr ""
+
+#: toms-social-login.php:50 toms-social-login.php:81
+msgid "Invalid Nonce !"
+msgstr ""
+
+#: toms-social-login.php:59
+msgid "Reorder Successfully !"
+msgstr ""
+
+#: toms-social-login.php:61
+msgid "Sorry, you don't have permission to reorder the icons."
+msgstr ""
+
+#: toms-social-login.php:63 toms-social-login.php:99
+msgid "Illegal operation, user is not logged in!"
+msgstr ""
+
+#: toms-social-login.php:86
+msgid "Unbinding <strong>Succeeded</strong> !"
+msgstr ""
+
+#: toms-social-login.php:88
+msgid "Sorry, you don't have permission to Unbind this account."
+msgstr ""
+
+#: toms-social-login.php:95
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: toms-social-login.php:95
+msgid "account is not binding!"
+msgstr ""
+
+#: toms-social-login.php:97
+msgid "Illegal operation, unkown source!"
+msgstr ""
+
+#: toms-social-login.php:180
+msgid "Settings saved."
+msgstr ""
+
+#: toms-social-login.php:184
+msgid "ERROR : Settings save failed."
+msgstr ""
+
+#: toms-social-login.php:185
+msgid "Sorry, you don't have permission to perform this action."
+msgstr ""
+
+#. Description of the plugin/theme
+#: toms-social-login.php:580
+msgid "Support Facebook, Google, Paypal, Github, Wechat, QQ, Weibo, Dingtalk accounts to login your wordpress site."
+msgstr ""
+
+#: toms-social-login.php:584
+msgid "Ordering"
+msgstr ""
+
+#: toms-social-login.php:585
+msgid "You can drag and drop to change the order of icons"
+msgstr ""
+
+#: toms-social-login.php:603
+msgid "Warning: Drag and drop with mouse only!"
+msgstr ""
+
+#: toms-social-login.php:612
+msgid "Button Style"
+msgstr ""
+
+#: toms-social-login.php:630 toms-social-login.php:636
+msgid "TomS Social"
+msgstr ""
+
+#: toms-social-login.php:642
+msgid "TomS Social QT"
+msgstr ""
+
+#: toms-social-login.php:662
+msgid "Configuration"
+msgstr ""
+
+#: toms-social-login.php:697
+msgid "Default "
+msgstr ""
+
+#: toms-social-login.php:697
+msgid " is: "
+msgstr ""
+
+#: toms-social-login.php:702
+msgid "Get the Keys"
+msgstr ""
+
+#: toms-social-login.php:703
+msgid "Need help?"
+msgstr ""
+
+#: toms-social-login.php:721
+msgid "Delete all the configuration Data!"
+msgstr ""
+
+#: toms-social-login.php:722
+msgid "Warning: "
+msgstr ""
+
+#: toms-social-login.php:722
+msgid "Please check this option carefully, it will delete all data saved on this page when the plugin is deleted ."
+msgstr ""
+
+#: toms-social-login.php:728
+msgid "Save Changes"
+msgstr ""
+
+#: toms-social-login.php:747
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr ""
+
+#: vendor/toms-caprice.php:30
+msgid "TomS Plugins For Wordpress"
+msgstr ""
+
+#: vendor/toms-caprice.php:31
+msgid "TomS WP"
+msgstr ""
+
+#: vendor/toms-caprice.php:40 vendor/toms-caprice.php:41
+msgid "Dashboard"
+msgstr ""
+
+#: vendor/toms-caprice.php:96
+#, php-format
+msgid "<i>Thank you for using <a href=\"%s\" target=\"_blank\"><strong>TomS WordPress Plugin</strong></a></i>"
+msgstr ""
+
+#: vendor/toms-caprice.php:121
+msgid "TomS DashBoard"
+msgstr ""
+
+#: vendor/toms-caprice.php:125
+msgid "Welcome to TomS Caprice !"
+msgstr ""
+
+#: vendor/toms-caprice.php:126
+msgid "Thank you for choosing TomS Caprice plugins. We provide easy, useful and secure plugins for you."
+msgstr ""
+
+#: vendor/toms-caprice.php:132
+msgid "Current Installed"
+msgstr ""
+
+#: vendor/toms-caprice.php:177 vendor/toms-caprice.php:249
+msgid "Version:"
+msgstr ""
+
+#: vendor/toms-caprice.php:183
+msgid "Settings"
+msgstr ""
+
+#: vendor/toms-caprice.php:186 vendor/toms-caprice.php:191
+#: vendor/toms-caprice.php:200 vendor/toms-caprice.php:255
+#: vendor/toms-caprice.php:263
+msgid "View Details"
+msgstr ""
+
+#: vendor/toms-caprice.php:197
+msgid "Activate"
+msgstr ""
+
+#: vendor/toms-caprice.php:212
+msgid "Our Popular Plugins"
+msgstr ""
+
+#: vendor/toms-caprice.php:251
+msgid "Status:"
+msgstr ""
+
+#: vendor/toms-caprice.php:251
+msgid "Not install"
+msgstr ""
+
+#: vendor/toms-caprice.php:259
+msgid "Comming Soon"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tom Sneddon"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://TomS-Caprice.org"
+msgstr ""
+

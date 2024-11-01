@@ -1,0 +1,123 @@
+@font-face {
+  font-family: "fa"; /* Project id 3590474 */
+  src: url('../fonts/toms.woff2?t=1666066307729') format('woff2'),
+       url('../fonts/toms.woff?t=1666066307729') format('woff'),
+       url('../fonts/toms.ttf?t=1666066307729') format('truetype');
+}
+
+.fa {
+  font-family: "fa" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-toms-social-login-icon:before {
+  content: "\e604";
+}
+
+.fa-activity:before {
+  content: "\e682";
+}
+
+.fa-toms-social-login:before {
+  content: "\e603";
+}
+
+.fa-TomS:before {
+  content: "\e602";
+}
+
+.fa-alibaba:before {
+  content: "\eaa0";
+}
+
+.fa-BaiDu:before {
+  content: "\e601";
+}
+
+.fa-twitter:before {
+  content: "\ec9c";
+}
+
+.fa-skype:before {
+  content: "\e841";
+}
+
+.fa-paypal:before {
+  content: "\e78d";
+}
+
+.fa-linkedin:before {
+  content: "\e646";
+}
+
+.fa-windows:before {
+  content: "\e69e";
+}
+
+.fa-home:before {
+  content: "\e648";
+}
+
+.fa-warnning:before {
+  content: "\e6aa";
+}
+
+.fa-wechat:before {
+  content: "\e62e";
+}
+
+.fa-ios:before {
+  content: "\e60d";
+}
+
+.fa-taobao:before {
+  content: "\e6eb";
+}
+
+.fa-key:before {
+  content: "\e6c6";
+}
+
+.fa-dingtalk:before {
+  content: "\e881";
+}
+
+.fa-vkontakte:before {
+  content: "\e653";
+}
+
+.fa-weibo:before {
+  content: "\e618";
+}
+
+.fa-github:before {
+  content: "\e732";
+}
+
+.fa-qq:before {
+  content: "\e746";
+}
+
+.fa-alipay:before {
+  content: "\e663";
+}
+
+.fa-google:before {
+  content: "\ea0c";
+}
+
+.fa-facebook-messenger:before {
+  content: "\e64b";
+}
+
+.fa-whatsapp:before {
+  content: "\ed0e";
+}
+
+.fa-facebook:before {
+  content: "\e616";
+}
+
